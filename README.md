@@ -9,3 +9,5 @@
 
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
 ![](https://raw.githubusercontent.com/jgq12138/jgq12138/output/github-contribution-grid-snake-dark.svg)
+
+![](https://avatars.githubusercontent.com/u/82138402?v=4)
