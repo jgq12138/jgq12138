@@ -1,6 +1,5 @@
 
-**jgq12138/jgq12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**jgq12138/jgq12138**
 ### Languages and Tools:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
