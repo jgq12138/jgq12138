@@ -1,4 +1,4 @@
-<!--
+
 **jgq12138/jgq12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
 ![](https://raw.githubusercontent.com/jgq12138/jgq12138/main/assets/github-contribution-grid-snake.svg)
